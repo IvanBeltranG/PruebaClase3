@@ -3,20 +3,20 @@ venv/
 .venv/
 env/
 
-#Caché de Python
+# Caché de Python
 __pycache__/
 .pyc
 .pyo
 
-#Variables de entorno y secretos — NUNCA subir
+# Variables de entorno y secretos — NUNCA subir
 .env
 .env.local
 *.env
 
-#Archivos del sistema operativo
+# Archivos del sistema operativo
 .DS_Store
 Thumbs.db
 desktop.ini
 
-#Jupyter Notebooks
+# Jupyter Notebooks
 .ipynb_checkpoints/
